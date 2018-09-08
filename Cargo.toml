@@ -5,3 +5,4 @@ authors = ["Kurble <brambuurlage@gmail.com>"]
 
 [dependencies]
 byteorder = "1.2.6"
+libflate = "0.1.16"
